@@ -10,11 +10,11 @@ I ❤️ coding. As a full-stack developer, I specialize in crafting dynamic and
 - 🔭 I'm currently pursuing my Master's in Computer Science at the University of Abuja.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,wordpress,bootstrap,js,jquery,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,wordpress,bootstrap,js,express,flask,nodejs)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀Exploring the ins and outs of Javascript and JQuery for dynamic front-end experiences.
+- 🚀Exploring the ins and outs of Javascript for dynamic front-end experiences.
   - I am currntly working on a bookshelf with Flask and SQL.
   - Diving into Tailwind CSS for crafting sleek and adaptable user interfaces.
   - Building server-side applications with Flask, a powerful Python web framework.
