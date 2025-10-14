@@ -1,16 +1,15 @@
 ## Hi, I'm Roseline! 👋
 
-I ❤️ coding. As a full-stack developer, I specialize in crafting dynamic and responsive web applications from front to back. My journey involves diving into the world of computer science, exploring new ideas and concepts, and sharing my insights with the community.
+I ❤️ coding. As a full-stack developer, I specialize in crafting dynamic and responsive web applications from front to back. My journey involves diving into the world of web development, exploring new ideas and concepts, and sharing my insights with the community.
 
 ![roselineodunze's Stats](https://github-readme-stats.vercel.app/api?username=roselineodunze&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer.
-- 🔭 I'm currently pursuing my Master's in Computer Science at the University of Abuja.
+- 💻 Full-stack Web developer.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,wordpress,nextjs,express,flask,nodejs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,nextjs,express,flask,nodejs,postgres)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
